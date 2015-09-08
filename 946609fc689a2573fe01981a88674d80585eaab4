@@ -1,0 +1,10 @@
+Verified+2: Jenkins
+Code-Review+2: Lin Hua Cheng <os.lcheng@gmail.com>
+Code-Review+2: Thai Tran <tqtran@us.ibm.com>
+Workflow+1: Thai Tran <tqtran@us.ibm.com>
+Code-Review+1: Richard Jones <r1chardj0n3s@gmail.com>
+Submitted-by: Jenkins
+Submitted-at: Tue, 08 Sep 2015 16:54:35 +0000
+Reviewed-on: https://review.openstack.org/220325
+Project: stackforge/xstatic-bootswatch
+Branch: refs/heads/master
