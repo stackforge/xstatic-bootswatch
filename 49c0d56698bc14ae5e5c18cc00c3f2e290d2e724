@@ -1,0 +1,10 @@
+Code-Review+1: Beth Elwell <e.r.elwell@gmail.com>
+Code-Review+2: Timur Sufiev <tsufiev@gmail.com>
+Code-Review+2: Radomir Dopieralski <openstack@sheep.art.pl>
+Workflow+1: Radomir Dopieralski <openstack@sheep.art.pl>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Thu, 10 Nov 2016 17:00:31 +0000
+Reviewed-on: https://review.openstack.org/358562
+Project: openstack/xstatic-bootswatch
+Branch: refs/heads/master
